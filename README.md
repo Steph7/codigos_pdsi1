@@ -1,4 +1,4 @@
-# Materiais desenvolvidos para os Laboratórios e Aprendizado da Linguagem C
+# Materiais desenvolvidos para o Aprendizado da Linguagem C
 Códigos em C - 2020/1
 
 
